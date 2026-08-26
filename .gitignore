@@ -127,6 +127,21 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_mle_mlflow
+.venv_mle_mlflow
+venv_mle_mlflow/
+venv_mle_mlflow*
+
+# MLflow эксперименты
+mlflow_experiments_store/
+mlflow_experiments_store_sqlite/
+mlruns/
+
+# Базы данных
+mydb.sqlite
+*.sqlite
+*.db
+
 
 # Spyder project settings
 .spyderproject
