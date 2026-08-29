@@ -29,6 +29,7 @@ mle-project-sprint-2-v001/
     ├── requirements.txt                   # зависимости проекта
     ├── run_mlflow_server_locally.sh       # запуск MLflow с локальным хранилищем
     ├── run_mlflow_server_sqlite.sh        # запуск MLflow с SQLite
+    ├── run_mlflow_server.sh               # запуск MLflow c S3
     ├── test_locally.py                    # тест (локальное хранилище)
     ├── test_sqlite.py                     # тест (SQLite)
     ├── test_localTreckingServer.py        # тест (S3)
