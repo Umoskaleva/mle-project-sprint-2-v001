@@ -179,3 +179,4 @@ _checpoints.ipynb
 test_users_churn.py
 users_churn.csv
 columns_sol.txt
+mlruns/
